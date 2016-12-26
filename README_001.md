@@ -1,6 +1,7 @@
-# bigdata-in-multicampus
+# 001
 
-## content
+## OT
+
 * IOT
 * ...
 * 빅데이터 활용
@@ -28,3 +29,24 @@
     - 수집
     - 분석
     - 시각화
+
+## 프로그래밍 언어
+
+* Link
+    - [https://en.wikipedia.org/wiki/History_of_programming_languages](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* History
+    - BCPL
+    - B
+    - C
+    - C++
+    - Java
+    - C#
+        + Xamarin
+
+## 개발환경 셋팅
+
+* Java
+    - Java EE
+        + [https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition)
+        + [https://en.wikipedia.org/wiki/Java_EE_version_history](https://en.wikipedia.org/wiki/Java_EE_version_history)
+* Eclipse
